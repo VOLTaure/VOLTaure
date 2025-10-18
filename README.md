@@ -1,16 +1,44 @@
-## Hi there 👋
+# ⚡ Hola, soy VOLTaure
 
-<!--
-**VOLTaure/VOLTaure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+### 👨‍💻 Desarrollador en Formación | 14 años | 🚀 Aprendiendo a Programar
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ Sobre Mí
+
+Soy un joven desarrollador que está comenzando su viaje en el mundo de la programación. Me caracterizo por mi **comprensión rápida** y mi pasión por crear cosas con código.
+
+## 💻 Tecnologías que Estoy Aprendiendo
+
+```
+📦 PSeInt
+🎨 HTML & CSS  
+⚙️ JavaScript
+🔧 PHP
+🎮 C#
+```
+
+## 🎯 Mis Objetivos
+
+- 🌐 Crear páginas web desde cero
+- 🎮 Desarrollar videojuegos
+- 🚀 Dominar el desarrollo web y de videojuegos
+- 📚 Construir una base sólida en programación
+
+## 🌱 Actualmente
+
+Enfocándome en aprender los fundamentos y practicar todos los días para mejorar mis habilidades.
+
+---
+
+<div align="center">
+  
+### 💡 *"El único modo de hacer un gran trabajo es amar lo que haces"*
+
+⚡ **Cada línea de código es un paso más cerca de mis sueños** ⚡
+
+</div>
